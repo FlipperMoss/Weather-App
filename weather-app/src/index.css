@@ -6,7 +6,7 @@
 }
 
 .app{
-  background-color: rgba(7, 230, 230, 0.571) ;
+  background-color: skyblue ;
   min-height: 100vh;
   display: grid;
 }
