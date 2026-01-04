@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.app{
+  background-color: rgba(7, 230, 230, 0.571) ;
+  min-height: 100vh;
+  display: grid;
+}
